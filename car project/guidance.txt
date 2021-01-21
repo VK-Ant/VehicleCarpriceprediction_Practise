@@ -1,0 +1,7 @@
+Kaggle project
+
+1. created the new environment for every single project --- focused in python or r version must important
+conda create -n myenvname python=3.7
+2. working directory(launched jupyter notebook)
+3. Then open the jupyter for python new project
+   then clean using pandas
